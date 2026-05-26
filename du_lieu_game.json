@@ -1,0 +1,19 @@
+{
+  "scores": {
+    "vuon_nui:3x3": {
+      "moves": 120,
+      "time": 28,
+      "stars": 2,
+      "assisted": 120
+    }
+  },
+  "settings": {
+    "level_index": 3,
+    "grid_size": 4,
+    "show_reference": true,
+    "show_numbers": false,
+    "beginner_mode": false,
+    "high_contrast": false,
+    "muted": true
+  }
+}
