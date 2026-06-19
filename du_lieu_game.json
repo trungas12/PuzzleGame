@@ -5,11 +5,16 @@
       "time": 28,
       "stars": 2,
       "assisted": 120
+    },
+    "pho_den_long:3x3": {
+      "moves": 44,
+      "time": 20,
+      "assisted": 42
     }
   },
   "settings": {
-    "level_index": 3,
-    "grid_size": 4,
+    "level_index": 1,
+    "grid_size": 3,
     "show_reference": true,
     "show_numbers": false,
     "beginner_mode": false,
